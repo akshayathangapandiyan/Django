@@ -27,3 +27,4 @@ class StudentViewSet(viewsets.ModelViewSet):
 
 
 student_signals.objects.create(name = "akshu", age = 20)
+student_signals.objects.create(name = "akshaya" age =23)
